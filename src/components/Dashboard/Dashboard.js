@@ -52,8 +52,8 @@ const Dashboard = () => {
     },
   ];
   return (
-    <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 mt-30">
-      <div>
+    <div className="max-w-7xl mx-auto grid grid-cols-1 gap-y-8 md:grid-cols-2 mt-30 ">
+      <div className='mt-30 -z-20'>
         <LineChart width={500} height={400} data={data}>
           <YAxis dataKey="investment"></YAxis>
           <Line
@@ -66,7 +66,7 @@ const Dashboard = () => {
           <Tooltip></Tooltip>
         </LineChart>
       </div>
-      <div>
+      <div className='mt-30 -z-20'>
         <ResponsiveContainer width="100%" height="100%">
           <BarChart
             width={500}
