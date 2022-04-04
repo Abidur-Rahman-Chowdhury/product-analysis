@@ -10,7 +10,7 @@ const Home = () => {
 
   return (
     <div className="max-w-7xl mx-auto">
-      <div className="grid grid-cols-1  gap-y-2 md:grid-cols-2 h-[40vh] justify-center items-center">
+      <div className="grid grid-cols-1  gap-y-2 md:grid-cols-2  justify-center items-center">
         <div className="order-2 md:order-1">
           <h1 className="text-6xl font-extrabold">
             Taste The Best
@@ -27,7 +27,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="mt-40">
+      <div className="mt-10">
         <h1 className="text-center text-5xl font-mono font-bold">
           Customer Review
         </h1>
