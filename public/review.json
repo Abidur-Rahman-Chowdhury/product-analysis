@@ -32,10 +32,18 @@
 
     },
     {
-        "id": 6,
+        "id": 5,
         "name": "OLGA JHONSON",
-        "image" : "./image/6.jfif",
+        "image" : "./image/5.jpg",
         "comment" : "Awesome & Delicious food they provide. I love the taste of their food. I am a regular customer. I recommend them to everyone.",
+        "ratings" : 4.5
+
+    },
+    {
+        "id": 6,
+        "name": "SAMIRA JONES",
+        "image" : "./image/6.jfif",
+        "comment" : "The best quality food i ever taste in this restaurant. Their service is too good also their food. They are so hygienic.",
         "ratings" : 4.5
 
     }
