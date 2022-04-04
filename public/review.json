@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "PAUL SMITH",
+        "image" : "./image/1.jfif",
+        "comment" : "The taste of food is very good. I love their service.They provide the best food in the city. I recommend them to everyone.",
+        "ratings" : 4
+
+    },
+    {
+        "id": 2,
+        "name": "NAT REYNOLDS",
+        "image" : "./image/2.jfif",
+        "comment" : "Delicious foods. They maintain the quality of their food. I recommend them to everyone.",
+        "ratings" : 4.5
+
+    },
+    {
+        "id": 3,
+        "name": "JAMES SMITH",
+        "image" : "./image/3.jfif",
+        "comment" : "Top class food. I love their vegetables items. I recommend others to try their food.",
+        "ratings" : 5
+
+    },
+    {
+        "id": 4,
+        "name": "SARAH JONES",
+        "image" : "./image/4.jfif",
+        "comment" : "Love their foods. This is my first experience to try their foods. I will come back again.",
+        "ratings" : 4.5
+
+    },
+    {
+        "id": 6,
+        "name": "OLGA JHONSON",
+        "image" : "./image/6.jfif",
+        "comment" : "Awesome & Delicious food they provide. I love the taste of their food. I am a regular customer. I recommend them to everyone.",
+        "ratings" : 4.5
+
+    }
+    
+]
