@@ -1,6 +1,6 @@
 # Amazed with Tastes
 
-Live project link: [](https://github.com/facebook/create-react-app).
+Live project link: [https://amazed-with-tastes.netlify.app/](https://amazed-with-tastes.netlify.app/).
 
 ## Project Description
 
