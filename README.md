@@ -4,7 +4,7 @@ Live project link: [https://amazed-with-tastes.netlify.app/](https://amazed-with
 
 ## Project Description
 
-* In this project i used react outer for routing. Also use Link component so that browser dont take reload on every action.
+* In this project i used react router for routing. Also use Link component so that browser dont take reload on every action.
 
 * In the review section i showed all the reviews of customer.
 
